@@ -29,6 +29,8 @@ pipeline_tag: text-to-speech
 
 # QORA-TTS - Native Rust Text-to-Speech Engine
 
+<img width="1395" height="926" alt="Screenshot 2026-02-27 174517" src="https://github.com/user-attachments/assets/0a0da12f-4fc2-4be2-a8e8-14396691ecce" />
+
 ## Downlod 🤗: https://huggingface.co/qoranet/QORA-TTS
 
 Pure Rust text-to-speech synthesis engine. No Python runtime, no CUDA, no external dependencies. Single executable + quantized weights = portable TTS on any machine.
